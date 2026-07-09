@@ -1,0 +1,5 @@
+# macOS
+.DS_Store
+
+# Large datasets (exceed GitHub's 100MB limit)
+pydata-book/pydata-book/datasets/fec/P00000001-ALL.csv
